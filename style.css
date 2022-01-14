@@ -4,6 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
     /* background-color: #F3F1FF; */
     background-color: #fff;
+    overflow-x: hidden;
     
 
 }
@@ -148,14 +149,14 @@ color:#FF4A60;
            padding-bottom: 40px;
            
        }
-        /* /* .photo-frame{
+         /* .photo-frame{
             
              position: relative;
            
             width: 40;
-            overflow: hidden; */
+            overflow: hidden;} */
            
-        
+         
         .photo{
              
             border-radius: 5px;
@@ -177,7 +178,7 @@ color:#FF4A60;
             display: none;
 
         }
-        .photo-frame:hover .discription{
+        /* .photo-frame:hover .discription{
             display: block;
             background-color: rgba(216, 191, 216, 0.5);
 
@@ -185,7 +186,7 @@ color:#FF4A60;
         .photo-frame:hover .photo{
             transform: scale(1.5);
             transition: transform 2s ease-out;
-        }
+        } */
         /* .dream-half{
     width:40%;
 
